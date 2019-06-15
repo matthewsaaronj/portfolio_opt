@@ -1,0 +1,4 @@
+#Devf
+# Add any libraries that must first be installed 
+# pyperclip
+# pygame
